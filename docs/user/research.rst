@@ -351,7 +351,7 @@ DeepXDE has been used in
   `SoftServe <https://www.softserveinc.com/en-us>`_,
   `Quantiph <https://quantiphi.com>`_,
   `Moldex3D <https://www.moldex3d.com>`_,
-  `FM, Research Division <https://www.fmglobal.com>`_,
+  `FM <https://www.fmglobal.com>`_,
   `NVIDIA <https://www.nvidia.com>`_,
   `Visa <https://www.visa.com>`_,
 
